@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Andrea, and I am very passionate about development, technology and innovation.
+
+I like to code for work, but I also love ❤️ coding for personal and hobby projects. I'm pretty proud of some of the things I was able to do with very good colleagues and friends in my career, but I also know that for every new thing I learn everyday there are many that I need to know about, understand better and get passioned about.
+
+So, well, I'd better get going, see you online!🧑🏻‍💻
+
 <!--
 **superandrew/superandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
